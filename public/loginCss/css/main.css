@@ -6,31 +6,31 @@
 [ FONT ]*/
 
 @font-face {
-  font-family: Poppins-Regular;
-  src: url('../fonts/poppins/Poppins-Regular.ttf'); 
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/poppins/Poppins-Regular.ttf');
 }
 
 @font-face {
   font-family: Poppins-Medium;
-  src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  src: url('../fonts/poppins/Poppins-Medium.ttf');
 }
 
 @font-face {
-  font-family: Montserrat-Medium;
-  src: url('../fonts/montserrat/Montserrat-Medium.ttf'); 
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/montserrat/Montserrat-Medium.ttf');
 }
 
 @font-face {
-  font-family: Montserrat-SemiBold;
-  src: url('../fonts/montserrat/Montserrat-SemiBold.ttf'); 
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/montserrat/Montserrat-SemiBold.ttf');
 }
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
 
 * {
-	margin: 0px; 
-	padding: 0px; 
+	margin: 0px;
+	padding: 0px;
 	box-sizing: border-box;
 }
 
@@ -41,7 +41,7 @@ body, html {
 
 /*---------------------------------------------*/
 a {
-	font-family: Poppins-Regular;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -68,7 +68,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-	font-family: Poppins-Regular;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -140,14 +140,14 @@ iframe {
 /*//////////////////////////////////////////////////////////////////
 [ Utility ]*/
 .txt1 {
-  font-family: Montserrat-SemiBold;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: #555555;
   line-height: 1.5;
 }
 
 .txt2 {
-  font-family: Poppins-Regular;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   color: #999999;
   line-height: 1.5;
@@ -164,7 +164,7 @@ iframe {
 }
 
 .container-login100 {
-  width: 100%;  
+  width: 100%;
   min-height: 100vh;
   display: -webkit-box;
   display: -webkit-flex;
@@ -175,7 +175,7 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;;
@@ -200,7 +200,7 @@ iframe {
 .login100-form-title {
   width: 100%;
   display: block;
-  font-family: Montserrat-Medium;
+  font-family: 'Montserrat', sans-serif;
   font-size: 39px;
   color: #555555;
   line-height: 1.2;
@@ -211,7 +211,7 @@ iframe {
 [ Button sign in with ]*/
 .btn-face,
 .btn-google {
-  font-family: Montserrat-SemiBold;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   line-height: 1.2;
 
@@ -309,7 +309,7 @@ iframe {
 
 /*---------------------------------------------*/
 .input100 {
-  font-family: Poppins-Regular;
+  font-family: 'Montserrat', sans-serif;
   color: #333333;
   line-height: 1.2;
   font-size: 18px;
@@ -462,7 +462,7 @@ iframe {
   right: 12px;
   pointer-events: none;
 
-  font-family: Poppins-Regular;
+  font-family: 'Montserrat', sans-serif;
   color: #c80000;
   font-size: 14px;
   line-height: 1.4;
