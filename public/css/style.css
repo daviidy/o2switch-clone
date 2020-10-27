@@ -486,7 +486,10 @@ h1,h2,h3{line-height:1.5;color:#000;font-weight:400;}
 .block-6 .media-body p{font-size:16px;}
 .block-18 .text strong{font-size:30px;}
 .block-18 .text span{display:block;}
-.block-7{padding:30px;background:#fff;}
+.block-7{padding:30px;background:#fff; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+}
 @media (max-width: 991.98px){
 .block-7{margin-bottom:30px;}
 }

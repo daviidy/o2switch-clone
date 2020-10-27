@@ -405,7 +405,7 @@
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Next gen VPS hosting</h2>
-		              	<p style="color: #fff">Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
+		              	<p style="">Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
 		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
