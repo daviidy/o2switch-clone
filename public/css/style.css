@@ -610,3 +610,15 @@ h1{line-height:1.5;color:#000;font-weight:400;}
 /*! CSS Used keyframes */
 @-webkit-keyframes fadeInUp{from{opacity:0;visibility:hidden;-webkit-transform:translate3d(0, 40px, 0);transform:translate3d(0, 40px, 0);}to{opacity:1;visibility:visible;-webkit-transform:none;transform:none;}}
 @keyframes fadeInUp{from{opacity:0;visibility:hidden;-webkit-transform:translate3d(0, 40px, 0);transform:translate3d(0, 40px, 0);}to{visibility:visible;opacity:1;-webkit-transform:none;transform:none;}}
+
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

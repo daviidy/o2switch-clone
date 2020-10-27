@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
@@ -38,7 +37,7 @@
       <div class="overlay"></div>
       <div class="container-fluid px-0">
       	<div class="row d-md-flex no-gutters slider-text align-items-center js-fullheight justify-content-end" style="height: 625px;">
-	      	<img class="one-third js-fullheight align-self-end order-md-last img-fluid" src="/imgs/pair.svg" alt="" style="height: 625px;">
+	      	<img class="one-third js-fullheight align-self-end order-md-last img-fluid" src="assets/imgs/pair.svg" alt="" style="height: 625px;">
 	        <div class="one-forth d-flex align-items-center ftco-animate js-fullheight fadeInUp ftco-animated" style="height: 625px;">
 	        	<div class="text mt-5">
 	        		<!--span class="subheading">Isometric Hosting</span-->
@@ -221,7 +220,7 @@
       <div class="container">
     		<div class="row">
     			<div class="col-lg-6 py-5">
-    				<img src="/loginCss/images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
+    				<img src="images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
     				<div class="heading-section ftco-animate mt-5 fadeInUp ftco-animated">
 	            <h2 class="mb-4">SERVICE CLIENT</h2>
 	            <p>Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
@@ -401,7 +400,7 @@
               <div class="tab-pane fade show active" id="v-pills-nextgen" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
               	<div class="d-md-flex">
 	              	<div class="one-forth align-self-center">
-	              		<img src="/loginCss/images/undraw_laravel_and_vue_59tp.svg" class="img-fluid" alt="">
+	              		<img src="images/undraw_laravel_and_vue_59tp.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Next gen VPS hosting</h2>
@@ -414,7 +413,7 @@
               <div class="tab-pane fade" id="v-pills-performance" role="tabpanel" aria-labelledby="v-pills-performance-tab">
                 <div class="d-md-flex">
 	              	<div class="one-forth order-last align-self-center">
-	              		<img src="/loginCss/images/undraw_visual_data_b1wx.svg" class="img-fluid" alt="">
+	              		<img src="images/undraw_visual_data_b1wx.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half order-first mr-md-5 align-self-center">
 		                <h2 class="mb-4">Performance VPS hosting</h2>
@@ -428,7 +427,7 @@
               <div class="tab-pane fade" id="v-pills-effect" role="tabpanel" aria-labelledby="v-pills-effect-tab">
                 <div class="d-md-flex">
 	              	<div class="one-forth align-self-center">
-	              		<img src="/loginCss/images/undraw_business_plan_5i9d.svg" class="img-fluid" alt="">
+	              		<img src="images/undraw_business_plan_5i9d.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Effective VPS hosting</h2>
