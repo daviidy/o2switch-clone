@@ -26,7 +26,7 @@
 	          <li class="nav-item"><a class="nav-link" href="hosting.html">Hosting</a></li-->
 	          <li class="nav-item"><a href="blog.html" class="nav-link">La société</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Nous Contacter</a></li>
-	          <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Se connecter</span></a></li>
+	          <li class="nav-item cta"><a href="/login" class="nav-link"><span>Se connecter</span></a></li>
             <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Tableau de bord</span></a></li>
 	        </ul>
 	      </div>
@@ -45,7 +45,7 @@
 
 	            <h1 class="mb-3"><span>La nouvelle façon de gagner de l’argent !</span></h1>
 	            <p>Votre Business Clé en Main pour Gagner de L’Argent en Ligne et Touchez 30% sur la vente.</p>
-	            <p><a href="#" class="btn btn-primary px-4 py-3">Se connecter</a></p>
+	            <p><a href="/login" class="btn btn-primary px-4 py-3">Se connecter</a></p>
 	          </div>
 	        </div>
 	    	</div>
@@ -221,7 +221,7 @@
       <div class="container">
     		<div class="row">
     			<div class="col-lg-6 py-5">
-    				<img src="images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
+    				<img src="/loginCss/images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
     				<div class="heading-section ftco-animate mt-5 fadeInUp ftco-animated">
 	            <h2 class="mb-4">SERVICE CLIENT</h2>
 	            <p>Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
@@ -401,12 +401,12 @@
               <div class="tab-pane fade show active" id="v-pills-nextgen" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
               	<div class="d-md-flex">
 	              	<div class="one-forth align-self-center">
-	              		<img src="images/undraw_laravel_and_vue_59tp.svg" class="img-fluid" alt="">
+	              		<img src="/loginCss/images/undraw_laravel_and_vue_59tp.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Next gen VPS hosting</h2>
 		              	<p>Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
-		                <p><a href="#" class="btn btn-primary py-3">Connectez-vous</a></p>
+		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
               </div>
@@ -414,13 +414,13 @@
               <div class="tab-pane fade" id="v-pills-performance" role="tabpanel" aria-labelledby="v-pills-performance-tab">
                 <div class="d-md-flex">
 	              	<div class="one-forth order-last align-self-center">
-	              		<img src="images/undraw_visual_data_b1wx.svg" class="img-fluid" alt="">
+	              		<img src="/loginCss/images/undraw_visual_data_b1wx.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half order-first mr-md-5 align-self-center">
 		                <h2 class="mb-4">Performance VPS hosting</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
-		                <p><a href="#" class="btn btn-primary py-3">Connectez-vous</a></p>
+		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
               </div>
@@ -428,13 +428,13 @@
               <div class="tab-pane fade" id="v-pills-effect" role="tabpanel" aria-labelledby="v-pills-effect-tab">
                 <div class="d-md-flex">
 	              	<div class="one-forth align-self-center">
-	              		<img src="images/undraw_business_plan_5i9d.svg" class="img-fluid" alt="">
+	              		<img src="/loginCss/images/undraw_business_plan_5i9d.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Effective VPS hosting</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
-		                <p><a href="#" class="btn btn-primary py-3">Connectez-vous</a></p>
+		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
               </div>
