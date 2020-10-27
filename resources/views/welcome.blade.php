@@ -5,6 +5,7 @@
     <title></title>
     <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
   </head>
@@ -33,11 +34,11 @@
 	  </nav>
     <!-- END nav -->
 
-    <div class="hero-wrap js-fullheight" style="height: 625px;">
+    <div class="hero-wrap js-fullheight" style="height: 625px; background-color:#0B1B2B">
       <div class="overlay"></div>
       <div class="container-fluid px-0">
       	<div class="row d-md-flex no-gutters slider-text align-items-center js-fullheight justify-content-end" style="height: 625px;">
-	      	<img class="one-third js-fullheight align-self-end order-md-last img-fluid" src="assets/imgs/pair.svg" alt="" style="height: 625px;">
+	      	<img class=" js-fullheight align-self-end order-md-last img-fluid" src="/imgs/pair.svg" alt="" style="height: 625px;">
 	        <div class="one-forth d-flex align-items-center ftco-animate js-fullheight fadeInUp ftco-animated" style="height: 625px;">
 	        	<div class="text mt-5">
 	        		<!--span class="subheading">Isometric Hosting</span-->
@@ -89,19 +90,19 @@
     	</div>
     </section-->
 
-    <section class="ftco-section services-section bg-light">
+    <section class="ftco-section services-section" style="background-color:#0B1B2B">
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
             <h2 class="mb-4">SOLUTION CLÉ EN MAIN Site + affiliation </h2>
-            <p>Nous créons votre site et les articles seo en automatique et nous assurons son hébergement et sa maintenance.</p>
+            <p style="color:#fff">Nous créons votre site et les articles seo en automatique et nous assurons son hébergement et sa maintenance.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center order-md-last">
-            		<span class="flaticon-cloud"></span>
+            		<span class=""><i class="fas fa-cloud"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
                 <h3 class="heading">Super Fast Server</h3>
@@ -112,7 +113,7 @@
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center">
-            		<span class="flaticon-server"></span>
+            		<span class=""><i class="fas fa-cloud-upload-alt"></i></span>
             	</div>
               <div class="media-body pl-4">
                 <h3 class="heading">Daily Backups</h3>
@@ -123,7 +124,7 @@
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center order-md-last">
-            		<span class="flaticon-customer-service"></span>
+            		<span class=""><i class="fas fa-user-cog"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
                 <h3 class="heading">Technical Services</h3>
@@ -134,7 +135,7 @@
 					<div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center">
-            		<span class="flaticon-life-insurance"></span>
+            		<span class=""><i class="fas fa-user-shield"></i></span>
             	</div>
               <div class="media-body pl-4">
                 <h3 class="heading">Secure and Reliable</h3>
@@ -145,7 +146,7 @@
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center order-md-last">
-            		<span class="flaticon-cloud-computing"></span>
+            		<span class=""><i class="fas fa-cloud-meatball"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
                 <h3 class="heading">DNS Control</h3>
@@ -156,7 +157,7 @@
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
             <div class="media block-6 services d-flex align-items-center">
             	<div class="icon d-flex align-items-center justify-content-center">
-            		<span class="flaticon-settings"></span>
+            		<span class=""><i class="fas fa-cog"></i></span>
             	</div>
               <div class="media-body pl-4">
                 <h3 class="heading">24/7 Support</h3>
@@ -216,14 +217,14 @@
     	</div>
     </section>
 
-    <section class="ftco-section ftco-no-pt ftc-no-pb">
+    <section class="ftco-section ftco-no-pt ftc-no-pb" style="background-color: #0B1B2B">
       <div class="container">
     		<div class="row">
     			<div class="col-lg-6 py-5">
-    				<img src="images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
+    				<img src="/imgs/service.svg" class="img-fluid" alt="">
     				<div class="heading-section ftco-animate mt-5 fadeInUp ftco-animated">
 	            <h2 class="mb-4">SERVICE CLIENT</h2>
-	            <p>Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
+	            <p style="color: #fff">Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
 	          </div>
     			</div>
     			<div class="col-lg-6 py-5">
@@ -231,7 +232,7 @@
     					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
     						<div class="media block-6 services border text-center">
 		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class="flaticon-cloud-computing"></span>
+		            		<span class=""><i class="fas fa-cloud-meatball"></i></span>
 		            	</div>
 		              <div class="mt-3 media-body media-body-2">
 		                <h3 class="heading">Cloud VPS</h3>
@@ -242,7 +243,7 @@
     					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
     						<div class="media block-6 services border text-center">
 		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class="flaticon-cloud"></span>
+		            		<span class=""><i class="fas fa-cloud"></i></span>
 		            	</div>
 		              <div class="mt-3 media-body media-body-2">
 		                <h3 class="heading">Share</h3>
@@ -253,7 +254,7 @@
     					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
     						<div class="media block-6 services border text-center">
 		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class="flaticon-server"></span>
+		            		<span class=""><i class="fab fa-mixcloud"></i></span>
 		            	</div>
 		              <div class="mt-3 media-body media-body-2">
 		                <h3 class="heading">VPS</h3>
@@ -264,7 +265,7 @@
     					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
     						<div class="media block-6 services border text-center">
 		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class="flaticon-database"></span>
+		            		<span class=""><i class="fas fa-database"></i></span>
 		            	</div>
 		              <div class="mt-3 media-body media-body-2">
 		                <h3 class="heading">Dedicated</h3>
@@ -282,7 +283,7 @@
       <div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
-            <h2 class="mb-4">Our Best Pricing</h2>
+            <h2 class="mb-4" style="color: #000">Our Best Pricing</h2>
           </div>
         </div>
     		<div class="row d-flex">
@@ -380,7 +381,7 @@
     		<div class="row justify-content-center mb-5 pb-5">
     			<div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
             <span class="subheading">Services</span>
-            <h2 class="mb-4">RÉFÉRENCEMENT PERFORMANT SEO</h2>
+            <h2 class="mb-4" style="color: #000">RÉFÉRENCEMENT PERFORMANT SEO</h2>
           </div>
     		</div>
     		<div class="row">
@@ -400,11 +401,11 @@
               <div class="tab-pane fade show active" id="v-pills-nextgen" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
               	<div class="d-md-flex">
 	              	<div class="one-forth align-self-center">
-	              		<img src="images/undraw_laravel_and_vue_59tp.svg" class="img-fluid" alt="">
+	              		<img src="/imgs/work.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Next gen VPS hosting</h2>
-		              	<p>Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
+		              	<p style="color: #fff">Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
 		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
@@ -413,7 +414,7 @@
               <div class="tab-pane fade" id="v-pills-performance" role="tabpanel" aria-labelledby="v-pills-performance-tab">
                 <div class="d-md-flex">
 	              	<div class="one-forth order-last align-self-center">
-	              		<img src="images/undraw_visual_data_b1wx.svg" class="img-fluid" alt="">
+	              		<img src="/imgs/service.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half order-first mr-md-5 align-self-center">
 		                <h2 class="mb-4">Performance VPS hosting</h2>
@@ -426,12 +427,12 @@
 
               <div class="tab-pane fade" id="v-pills-effect" role="tabpanel" aria-labelledby="v-pills-effect-tab">
                 <div class="d-md-flex">
-	              	<div class="one-forth align-self-center">
-	              		<img src="images/undraw_business_plan_5i9d.svg" class="img-fluid" alt="">
+	              	<div class=" align-self-center">
+	              		<img src="/imgs/service.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
 		                <h2 class="mb-4">Effective VPS hosting</h2>
-		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+		              	<p style="">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
