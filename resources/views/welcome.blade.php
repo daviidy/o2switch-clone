@@ -27,7 +27,7 @@
 	          <li class="nav-item"><a href="blog.html" class="nav-link">La société</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Nous Contacter</a></li>
 	          <li class="nav-item cta"><a href="/login" class="nav-link"><span>Se connecter</span></a></li>
-            <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Tableau de bord</span></a></li>
+            <li class="nav-item cta"><a href="/admin" class="nav-link"><span>Tableau de bord</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
