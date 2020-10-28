@@ -43,9 +43,11 @@
 	        	<div class="text mt-5">
 	        		<!--span class="subheading">Isometric Hosting</span-->
 
-	            <h1 class="mb-3"><span>La nouvelle façon de gagner de l’argent !</span></h1>
-	            <p>Votre Business Clé en Main pour Gagner de L’Argent en Ligne et Touchez 30% sur la vente.</p>
-	            <p><a href="/login" class="btn btn-primary px-4 py-3">Se connecter</a></p>
+	            <h1 class="mb-3">
+                <span>INVESTIS DANS UN BUSINESS CLÉ EN MAIN AUJOURD'HUI ET COMMENCE À GÉNÉRER DES VENTES DÈS DEMAIN.</span>
+              </h1>
+	            <p>Toucher des commissions grâce à un blog clé en main</p>
+	            <p><a href="/login" class="btn btn-primary px-4 py-3">Découvrir notre offre</a></p>
 	          </div>
 	        </div>
 	    	</div>
@@ -94,8 +96,12 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
-            <h2 class="mb-4">SOLUTION CLÉ EN MAIN Site + affiliation </h2>
-            <p style="color:#fff">Nous créons votre site et les articles seo en automatique et nous assurons son hébergement et sa maintenance.</p>
+            <h2 class="mb-4">Un choix judicieux</h2>
+            <p style="color:#fff">Pas les moyens de payer un site sur mesure à 10 000,00 € ?
+              Pas les connaissances techniques / stratégiques pour te lancer ?
+              Pas envie de faire confiance à n'importe qui pour ton premier site (ou les suivants) ?
+              Tu es au bon endroit !
+            </p>
           </div>
         </div>
         <div class="row">
@@ -105,8 +111,8 @@
             		<span class=""><i class="fas fa-cloud"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
-                <h3 class="heading">Super Fast Server</h3>
-                <p class="mb-0">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Un design 100% unique</h3>
+                <p class="mb-0"></p>
               </div>
             </div>
           </div>
@@ -116,8 +122,8 @@
             		<span class=""><i class="fas fa-cloud-upload-alt"></i></span>
             	</div>
               <div class="media-body pl-4">
-                <h3 class="heading">Daily Backups</h3>
-                <p class="mb-0">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Un logo fait sur mesure</h3>
+                <p class="mb-0"></p>
               </div>
             </div>
           </div>
@@ -127,8 +133,8 @@
             		<span class=""><i class="fas fa-user-cog"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
-                <h3 class="heading">Technical Services</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Un thème WordPress premium</h3>
+                <p></p>
               </div>
             </div>
           </div>
@@ -138,8 +144,8 @@
             		<span class=""><i class="fas fa-user-shield"></i></span>
             	</div>
               <div class="media-body pl-4">
-                <h3 class="heading">Secure and Reliable</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Des plugins cruciaux pour optimiser et sécuriser ton site</h3>
+                <p></p>
               </div>
             </div>
           </div>
@@ -149,9 +155,9 @@
             		<span class=""><i class="fas fa-cloud-meatball"></i></span>
             	</div>
               <div class="media-body pl-4 pl-md-0 pr-md-4 text-md-right">
-                <h3 class="heading">DNS Control</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-              </div>s
+                <h3 class="heading">550 articles  de contenu uniques, rédigés par notre équipe de rédaction 100% française</h3>
+                <p></p>
+              </div>
             </div>
           </div>
           <div class="col-md-6 d-flex align-self-stretch ftco-animate fadeInUp ftco-animated">
@@ -160,8 +166,8 @@
             		<span class=""><i class="fas fa-cog"></i></span>
             	</div>
               <div class="media-body pl-4">
-                <h3 class="heading">24/7 Support</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Optimisation du SEO</h3>
+                <p></p>
               </div>
             </div>
           </div>
@@ -169,7 +175,7 @@
       </div>
     </section>
 
-    <section class="ftco-section ftco-counter img" id="section-counter">
+    <!--section class="ftco-section ftco-counter img" id="section-counter">
       <div class="container">
     		<div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate fadeInUp ftco-animated">
@@ -215,185 +221,18 @@
 	        </div>
         </div>
     	</div>
-    </section>
-
-    <section class="ftco-section ftco-no-pt ftc-no-pb" style="background-color: #0B1B2B">
-      <div class="container">
-    		<div class="row">
-    			<div class="col-lg-6 py-5">
-    				<img src="/imgs/service.svg" class="img-fluid" alt="">
-    				<div class="heading-section ftco-animate mt-5 fadeInUp ftco-animated">
-	            <h2 class="mb-4">SERVICE CLIENT</h2>
-	            <p style="color: #fff">Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
-	          </div>
-    			</div>
-    			<div class="col-lg-6 py-5">
-    				<div class="row">
-    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-    						<div class="media block-6 services border text-center">
-		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class=""><i class="fas fa-cloud-meatball"></i></span>
-		            	</div>
-		              <div class="mt-3 media-body media-body-2">
-		                <h3 class="heading">Cloud VPS</h3>
-		                <p>Even the all-powerful Pointing has no control about the blind texts</p>
-		              </div>
-		            </div>
-    					</div>
-    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-    						<div class="media block-6 services border text-center">
-		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class=""><i class="fas fa-cloud"></i></span>
-		            	</div>
-		              <div class="mt-3 media-body media-body-2">
-		                <h3 class="heading">Share</h3>
-		                <p>Even the all-powerful Pointing has no control about the blind texts</p>
-		              </div>
-		            </div>
-    					</div>
-    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-    						<div class="media block-6 services border text-center">
-		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class=""><i class="fab fa-mixcloud"></i></span>
-		            	</div>
-		              <div class="mt-3 media-body media-body-2">
-		                <h3 class="heading">VPS</h3>
-		                <p>Even the all-powerful Pointing has no control about the blind texts</p>
-		              </div>
-		            </div>
-    					</div>
-    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-    						<div class="media block-6 services border text-center">
-		            	<div class="icon d-flex align-items-center justify-content-center">
-		            		<span class=""><i class="fas fa-database"></i></span>
-		            	</div>
-		              <div class="mt-3 media-body media-body-2">
-		                <h3 class="heading">Dedicated</h3>
-		                <p>Even the all-powerful Pointing has no control about the blind texts</p>
-		              </div>
-		            </div>
-    					</div>
-    				</div>
-          </div>
-    		</div>
-    	</div>
-    </section>
-
-    <section class="ftco-section bg-light">
-      <div class="container">
-    		<div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
-            <h2 class="mb-4" style="color: #000">Our Best Pricing</h2>
-          </div>
-        </div>
-    		<div class="row d-flex">
-	        <div class="col-lg-4 col-md-6 ftco-animate fadeInUp ftco-animated">
-	          <div class="block-7">
-	            <div class="text-center">
-		            <h2 class="heading">Pack Starter</h2>
-		            <span class="price"><sup>€</sup> <span class="number">89<small class="per">/mo HT</small></span>
-		            <span class="excerpt d-block"></span>
-		            <h3 class="heading-2 mb-3"></h3>
-
-		            <ul class="pricing-text mb-4">
-                  <li><strong>nombre de page</strong> 1000</li>
-		              <li>Création du site complet</li>
-		              <li>Hébergement et maintenance</li>
-		              <li><strong>2</strong> adresses emails</li>
-                  <li>Optimisez pour référencement naturel</li>
-                  <li>Search console </li>
-                  <li>Admin du site statistique </li>
-                  <li>Affiliation suivi des ventes et clics </li>
-		            </ul>
-		            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Choose Plan</a>
-	            </span></div>
-	          </div>
-	        </div>
-
-	        <div class="col-lg-4 col-md-6 ftco-animate fadeInUp ftco-animated">
-	          <div class="block-7">
-	            <div class="text-center">
-		            <h2 class="heading"> Pack pro - Blog clé-en-main</h2>
-		            <span class="price"><sup>€</sup> <span class="number">119<small class="per">/mois HT</small></span></span>
-		            <span class="excerpt d-block"></span>
-		            <h3 class="heading-2 mb-3"></h3>
-
-		            <ul class="pricing-text mb-4">
-		              <li>Mise en place de votre site internet (hébergement et nom de domaine)</li>
-		              <li>Mise en place du CMS Wordpress</li>
-		              <li>Mise en place d'un thème pour séduire vos visiteurs</li>
-		              <li>Mise en place d'un pop-up personnalisé pour rediriger lien affiliation </li>
-                  <li>Installation  module pour développer le SEO du blog</li>
-                  <li>Installation de Google Analytics pour suivre les statistiques de votre blog</li>
-                  <li>1500 articles Seo transport optimisé minimum 2500 mots lien interne et externe compris  </li>
-                  <li>Photo sur chaque articles </li>
-		            </ul>
-		            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Choose Plan</a>
-	            </div>
-	          </div>
-	        </div>
-	        <!--div class="col-lg-3 col-md-6 ftco-animate fadeInUp ftco-animated">
-	          <div class="block-7">
-	            <div class="text-center">
-		            <h2 class="heading">Premium</h2>
-		            <span class="price"><sup>$</sup> <span class="number">49<small class="per">/mo</small></span></span>
-		            <span class="excerpt d-block">All features are included</span>
-		            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
-
-		            <ul class="pricing-text mb-4">
-                  <li><strong>nombre de page</strong> 1000</li>
-		              <li><strong>Création du site complet</li>
-		              <li><strong>Hébergement et maintenance</li>
-		              <li><strong>2</strong> adresses emails</li>
-                  <li>Optimisez pour référencement naturel</li>
-                  <li>Search console </li>
-                  <li>Admin du site statistique </li>
-                  <li>Affiliation suivi des ventes et clics </li>
-		            </ul>
-		            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Choose Plan</a>
-	            </div>
-	          </div>
-	        </div>
-	        <div class="col-lg-3 col-md-6 ftco-animate fadeInUp ftco-animated">
-	          <div class="block-7">
-	            <div class="text-center">
-		            <h2 class="heading">Pro</h2>
-		            <span class="price"><sup>$</sup> <span class="number">99<small class="per">/mo</small></span></span>
-		            <span class="excerpt d-block">All features are included</span>
-		            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
-
-		            <ul class="pricing-text mb-4">
-		              <li><strong>450 GB</strong> Bandwidth</li>
-		              <li><strong>400 GB</strong> Storage</li>
-		              <li><strong>$20.00 / GB</strong> Overages</li>
-		              <li>All features</li>
-		            </ul>
-			          <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Choose Plan</a>
-	            </div>
-	          </div>
-	        </div-->
-	      </div>
-    	</div>
-    </section>
+    </section-->
 
     <section class="ftco-section bg-light">
       <div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
     			<div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
-            <span class="subheading">Services</span>
-            <h2 class="mb-4" style="color: #000">RÉFÉRENCEMENT PERFORMANT SEO</h2>
+            <span class="subheading">Transporteur pachere.com une niche d'excellence</span>
+            <h2 class="mb-4" style="color: #000">Pourquoi louer des sites pour gagner de l'argent dans le domaine du transport?</h2>
           </div>
     		</div>
     		<div class="row">
-          <div class="col-md-12 nav-link-wrap mb-5 pb-md-5 pb-sm-1 ftco-animate fadeInUp ftco-animated">
-            <div class="nav ftco-animate nav-pills justify-content-center text-center fadeInUp ftco-animated" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-nextgen-tab" data-toggle="pill" href="#v-pills-nextgen" role="tab" aria-controls="v-pills-nextgen" aria-selected="true">Next gen VPS</a>
 
-              <a class="nav-link" id="v-pills-performance-tab" data-toggle="pill" href="#v-pills-performance" role="tab" aria-controls="v-pills-performance" aria-selected="false">Performance</a>
-
-              <a class="nav-link" id="v-pills-effect-tab" data-toggle="pill" href="#v-pills-effect" role="tab" aria-controls="v-pills-effect" aria-selected="false">Effectiveness</a>
-            </div>
-          </div>
           <div class="col-md-12 align-items-center ftco-animate fadeInUp ftco-animated">
 
             <div class="tab-content ftco-animate fadeInUp ftco-animated" id="v-pills-tabContent">
@@ -404,8 +243,11 @@
 	              		<img src="/imgs/work.svg" class="img-fluid" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
-		                <h2 class="mb-4">Next gen VPS hosting</h2>
-		              	<p style="">Votre site à besoin d'être mis en avant nous assurons des prestations de backlink et trafic et référencement naturel sur vos mots clés.</p>
+		                <h2 class="mb-4">Le domaine du transport est une niche à plein potentiel</h2>
+		              	<p style="">Chaque page créée est génératrice de bénéfices : plus vous publiez d’articles, plus vous avez de possibilités de gagner.</p>
+                    <p style="">Une page bien positionnée sur Google générera des bénéfices sur plusieurs années et ce presque sans efforts de votre part.</p>
+                    <p style="">Contrairement aux cours de la bourse, du bitcoin, etc… vous êtes maîtres de vos taux d’intérêts : plus vous travaillez sur votre site (création de pages, liens de qualité..), plus vous gagnez !</p>
+                    <p>Une fois que vous savez monétiser 1 site, vous pouvez facilement recommencer, le vendre, etc... !</p>
 		                <p><a href="/login" class="btn btn-primary py-3">Connectez-vous</a></p>
 		              </div>
 	              </div>
@@ -443,6 +285,252 @@
         </div>
     	</div>
     </section>
+
+    <section class="home-section-c">
+      <div class="home-section-c-middle">
+        <div class="container-fluid">
+          <div class="row align-items-top text-center justify-content-center">
+            <div class="col-md-12">
+              <div class="section-content-wrapper aos-init aos-animate" data-aos="zoom-in">
+                <div class="section-pre-title my-2">hébergeur d’excellence o2switch</div>
+                <div class="section-title my-3">Un hébergement de <span>haute</span> qualité</div>
+                <div class="section-desc my-4">Serveurs à la pointe | Technologie SSD NVMe | Support Gratuit 24/7 | Activation dans l'heure</div>
+              </div>
+            </div>
+          </div>
+          <div class="row align-items-top text-left justify-content-center mt-5">
+            <div class="col-md-6 col-lg-3 mb-5">
+              <div class="section-price-wrapper">
+                <div class="box-wrapper aos-init aos-animate" data-aos="flip-up">
+                  <div class="box-title">Performance</div>
+                  <div class="box-icon">
+                    <object type="image/svg+xml" data="/imgs/perf.svg"></object>
+                  </div>
+                  <div class="box-desc">
+                    <b>La performance est notre ADN.</b><br><br>
+                    Nos hébergements utilisent la technologie NVMe, les caches Varnish ou LSCache.<br><br>
+                    <b>Profitez d'un site jusqu'à</b><br>
+                    <span class="orange">20x plus rapide !</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-5">
+              <div class="section-price-wrapper">
+                <div class="box-wrapper aos-init aos-animate" data-aos="flip-up">
+                  <div class="box-title">connectivité</div>
+                  <div class="box-icon">
+                    <object type="image/svg+xml" data="/imgs/conect.svg"></object>
+                  </div>
+                  <div class="box-desc">
+                    <b>Vos besoins sont critiques ?</b><br><br>
+                    Nos serveurs d'hébergement utilisent un réseau prémium, redondé, et sécurisé par Anti-DDoS Arbor.<br><br>
+                    <b>Nous servons vos pages au plus proche de vos visiteurs !</b>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-5">
+              <div class="section-price-wrapper">
+                <div class="box-wrapper aos-init aos-animate" data-aos="flip-up">
+                  <div class="box-title">technologies</div>
+                  <div class="box-icon">
+                    <object type="image/svg+xml" data="/imgs/tech.svg"></object>
+                  </div>
+                  <div class="box-desc">
+                    <b>Nous mettons à votre disposition les dernières innovations.</b><br><br>
+                    Autant les développeurs que les débutants adorent notre offre.<br><br>
+                    <b>Délivrez votre contenu en toute tranquillité ! </b>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-5">
+              <div class="section-price-wrapper">
+                <div class="box-wrapper aos-init aos-animate" data-aos="flip-up">
+                  <div class="box-title">100% o2switch</div>
+                  <div class="box-icon">
+                    <object type="image/svg+xml" data="/imgs/fr.svg"></object>
+                  </div>
+                  <div class="box-desc">
+                    Nous gérons intégralement<br> notre propre datacenter,<br> sans intermédiaire.<br><br>
+                    <b>Vos données sont hébergées en toute transparence,</b><br>
+                    <span class="orange">en France.</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section ftco-no-pt ftc-no-pb" style="background-color: #0B1B2B">
+      <div class="container">
+    		<div class="row">
+    			<div class="col-lg-6 py-5">
+    				<img src="/imgs/service.svg" class="img-fluid" alt="">
+    				<div class="heading-section ftco-animate mt-5 fadeInUp ftco-animated">
+	            <h2 class="mb-4">Mais ce n'est pas tout :</h2>
+	            <p style="color: #fff">Une équipe de professionnelle à votre service 7 jours sur 7 pour vous aider dans votre solution internet.</p>
+	          </div>
+    			</div>
+    			<div class="col-lg-6 py-5">
+    				<div class="row">
+    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
+    						<div class="media block-6 services border text-center">
+		            	<div class="icon d-flex align-items-center justify-content-center">
+		            		<span class=""><i class="fas fa-cloud-meatball"></i></span>
+		            	</div>
+		              <div class="mt-3 media-body media-body-2">
+		                <h3 class="heading">Un coaching Skype d'une heure avec nous</h3>
+		                <p>Service client via Skype, email et le téléphone 📞 </p>
+		              </div>
+		            </div>
+    					</div>
+    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
+    						<div class="media block-6 services border text-center">
+		            	<div class="icon d-flex align-items-center justify-content-center">
+		            		<span class=""><i class="fas fa-cloud"></i></span>
+		            	</div>
+		              <div class="mt-3 media-body media-body-2">
+		                <h3 class="heading">Accès Search console </h3>
+		                <p>SSL compris, Lien affiliation compris, Popup affiliation compris </p>
+		              </div>
+		            </div>
+    					</div>
+    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
+    						<div class="media block-6 services border text-center">
+		            	<div class="icon d-flex align-items-center justify-content-center">
+		            		<span class=""><i class="fab fa-mixcloud"></i></span>
+		            	</div>
+		              <div class="mt-3 media-body media-body-2">
+		                <h3 class="heading">Un site internet professionnel bien référencé sur Google</h3>
+		                <p>Un conseiller dédié pour un accompagnement personnalisé</p>
+		              </div>
+		            </div>
+    					</div>
+    					<div class="col-md-6 ftco-animate fadeInUp ftco-animated">
+    						<div class="media block-6 services border text-center">
+		            	<div class="icon d-flex align-items-center justify-content-center">
+		            		<span class=""><i class="fas fa-database"></i></span>
+		            	</div>
+		              <div class="mt-3 media-body media-body-2">
+		                <h3 class="heading">Un service clé en main transparent et sans engagement</h3>
+		                <p></p>
+		              </div>
+		            </div>
+    					</div>
+    				</div>
+          </div>
+    		</div>
+    	</div>
+    </section>
+
+    <section class="site-wrap home">
+    <div class="home-section-b  d-lg-block">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 text-center heading-section ftco-animate fadeInUp ftco-animated">
+            <h2 class="mb-4" style="color: #000">Nos Offres</h2>
+          </div>
+        </div>
+        <div class="row align-items-top text-left justify-content-center">
+
+          <div class="col-12 col-md-4 my-5 my-lg-0">
+            <div class="section-price-wrapper aos-init aos-animate" data-aos="fade-left">
+              <div class="section-number">
+                <div class="top">89<span class="euro">€</span></div>
+                <div class="bottom">HT / MOIS</div>
+              </div>
+              <div class="section-price-desc">
+                <p><b>Location du site et Serveur compris</b></p>
+                <p>Création du site compris</p>
+                <p>Accès à l’interface d’administration affiliation</p>
+                <p>Popup de redirection affiliation</p>
+                <p>Accès à l’interface d’administration du site (Statistiques)</p>
+                <p>Accès à l’interface d’administration Search console</p>
+                <p>Intégration d’un certificat HTTPS pour sécuriser le site</p>
+                <p>Plugin WP Rocket</p>
+                <p>Adresse E-mail illimités</p>
+                <p>Achat de texte supplémentaire : Non</p>
+                <p>Campagne Backlinks : Option*</p>
+                <p>Campagne Traffic Url : Option*</p>
+                <p>Création de 500 Texte Seo</p>
+                <p>Rémunération affiliation 8%</p>
+              </div>
+              <div class="section-price-action">
+                <div class="section-price-btn">
+                  <a href="#">C’est parti !</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-4 my-5 my-lg-0">
+            <div class="section-price-wrapper aos-init aos-animate" data-aos="fade-left">
+              <div class="section-number">
+                <div class="top">119<span class="euro">€</span></div>
+                <div class="bottom">HT / MOIS</div>
+              </div>
+              <div class="section-price-desc">
+                <p><b>Location du site et Serveur compris</b></p>
+                <p>Création du site compris</p>
+                <p>Accès à l’interface d’administration affiliation</p>
+                <p>Popup de redirection affiliation</p>
+                <p>Accès à l’interface d’administration du site (Statistiques)</p>
+                <p>Accès à l’interface d’administration Search console</p>
+                <p>Intégration d’un certificat HTTPS pour sécuriser le site</p>
+                <p>Plugin WP Rocket</p>
+                <p>Adresse E-mail illimités</p>
+                <p>Achat de texte supplémentaire : Non</p>
+                <p>Campagne Backlinks : Option*</p>
+                <p>Campagne Traffic Url : Option*</p>
+                <p>Création de 1000 Texte Seo</p>
+                <p>Rémunération affiliation 10%</p>
+              </div>
+              <div class="section-price-action">
+                <div class="section-price-btn">
+                  <a href="#">C’est parti !</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-4 my-5 my-lg-0">
+            <div class="section-price-wrapper aos-init aos-animate" data-aos="fade-left">
+              <div class="section-number">
+                <div class="top">119<span class="euro">€</span></div>
+                <div class="bottom">HT / MOIS</div>
+              </div>
+              <div class="section-price-desc">
+                <p><b>Location du site et Serveur compris</b></p>
+                <p>Création du site compris</p>
+                <p>Accès à l’interface d’administration affiliation</p>
+                <p>Popup de redirection affiliation</p>
+                <p>Accès à l’interface d’administration du site (Statistiques)</p>
+                <p>Accès à l’interface d’administration Search console</p>
+                <p>Intégration d’un certificat HTTPS pour sécuriser le site</p>
+                <p>Plugin WP Rocket</p>
+                <p>Adresse E-mail illimités</p>
+                <p>Achat de texte supplémentaire : Non</p>
+                <p>Campagne Backlinks : Option*</p>
+                <p>Campagne Traffic Url : Option*</p>
+                <p>Création de 1000 Texte Seo</p>
+                <p>Rémunération affiliation 12%</p>
+              </div>
+              <div class="section-price-action">
+                <div class="section-price-btn">
+                  <a href="#">C’est parti !</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
