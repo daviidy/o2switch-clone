@@ -34,18 +34,8 @@
 			<div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33">
 				<form class="login100-form validate-form flex-sb flex-w">
 					<span class="login100-form-title p-b-53">
-						S'incrire avec
+						S'incrire 
 					</span>
-
-					<a href="#" class="btn-face m-b-20">
-						<i class="fab fa-facebook-square"></i>
-						Facebook
-					</a>
-
-					<a href="#" class="btn-google m-b-20">
-						<img src="/loginCss/images/icons/icon-google.png" alt="GOOGLE">
-						Google
-					</a>
 
 					<div class="p-t-31 p-b-9">
 						<span class="txt1">
