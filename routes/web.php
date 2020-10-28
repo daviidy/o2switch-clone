@@ -23,3 +23,4 @@ Route::get('/admin', [App\Http\Controllers\AdminController::class, 'admin'])
     ->name('admin');
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index']);
+Route::post('login', [ App\Http\Controllers\Auth\LoginController::class, 'login'])->name('login');
