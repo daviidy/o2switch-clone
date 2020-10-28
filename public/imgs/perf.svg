@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+	<style>
+		#Etoile_gauche_1{
+    animation-duration: 1s;
+    animation-name: spacetravel;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_gauche_2{
+    animation-duration: .65s;
+    animation-name: spacetravel;
+    animation-delay: .15s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_gauche_3{
+    animation-duration: 1.2s;
+    animation-name: spacetravel;
+    animation-delay: .08s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_gauche_4{
+    animation-duration: .8s;
+    animation-name: spacetravel;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_gauche_5{
+    animation-duration: .875s;
+    animation-name: spacetravel;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_droite_1{
+    animation-duration: .9s;
+    animation-name: spacetravel;
+    animation-delay: .1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_droite_2{
+    animation-duration: .7s;
+    animation-name: spacetravel;
+    animation-delay: .12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_droite_3{
+    animation-duration: .925s;
+    animation-name: spacetravel;
+    animation-delay: .05s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_droite_4{
+    animation-duration: .95s;
+    animation-name: spacetravel;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+#Etoile_droite_5{
+    animation-duration: 1.05s;
+    animation-name: spacetravel;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+
+    @keyframes spacetravel {
+        from{
+            transform: translateY(0) translateX(0);
+            opacity: 1;
+        }
+        to{
+            transform: translateY(80%) translateX(-80%);
+            opacity: 0;
+        }
+    }
+
+#Fusee{
+    animation: mouvement 1s ease-in-out infinite alternate;
+}
+
+@keyframes mouvement {
+    from{
+        transform: translateY(2%);
+    }
+    to{
+        transform: translateY(-2%);
+    }
+}
+
+#Flamme{
+    animation: TailleFlamme 2s ease-in-out infinite;
+    transform-origin: 50% 50%;
+    transform-box: fill-box;
+        }
+
+@keyframes TailleFlamme {
+    0%   { transform: translateY(0) scale(.75); }
+    50%  { transform: translateY(-10%) scale(1); }
+    100% { transform: translateY(0) scale(.75); }
+    }
+</style>
+  <title>fusee-animee</title>
+  <g id="PERFORMANCE-V4-anim">
+    <g id="Interface">
+      <circle id="Etoile_gauche_1" data-name="Etoile gauche 1" cx="220" cy="40" r="6.74" style="fill: #f5faff"/>
+      <circle id="Etoile_gauche_2" data-name="Etoile gauche 2" cx="243.923" cy="441.497" r="8.494" style="fill: #f5faff"/>
+      <circle id="Etoile_gauche_3" data-name="Etoile gauche 3" cx="325" cy="700" r="9" style="fill: #f5faff"/>
+      <circle id="Etoile_gauche_4" data-name="Etoile gauche 4" cx="650" cy="80" r="8.5" style="fill: #f5faff"/>
+      <circle id="Etoile_gauche_5" data-name="Etoile gauche 5" cx="480" cy="-60" r="8.5" style="fill: #f5faff"/>
+      <circle id="Etoile_droite_1" data-name="Etoile droite 1" cx="969.344" cy="80.353" r="10" style="fill: #f5faff"/>
+      <circle id="Etoile_droite_2" data-name="Etoile droite 2" cx="785.654" cy="793.688" r="12" style="fill: #f5faff"/>
+      <circle id="Etoile_droite_3" data-name="Etoile droite 3" cx="885.654" cy="593.688" r="7" style="fill: #f5faff"/>
+      <circle id="Etoile_droite_4" data-name="Etoile droite 4" cx="869.344" cy="340.353" r="7.5" style="fill: #f5faff"/>
+      <circle id="Etoile_droite_5" data-name="Etoile droite 5" cx="1200" cy="220" r="9.5" style="fill: #f5faff"/>
+      <polyline points="258.624 770.943 586.102 770.943 586.102 847.304 586.102 949.383" style="fill: none;stroke: #35bd9b;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px;stroke-dasharray: 0,30"/>
+      <rect x="485.375" y="845.036" width="201.414" height="127.888" style="fill: #333"/>
+      <g>
+        <rect x="511.333" y="864.569" width="36.577" height="88.821" rx="18.288" style="fill: #35bd9b"/>
+        <rect x="567.322" y="883.835" width="36.577" height="69.555" rx="18.288" style="fill: #35bd9b"/>
+        <rect x="623.311" y="897.267" width="36.577" height="56.124" rx="18.288" style="fill: #35bd9b"/>
+      </g>
+      <polyline points="667.541 501.064 828.055 501.064 828.055 679.505" style="fill: none;stroke: #35bd9b;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px;stroke-dasharray: 0,32"/>
+      <polyline points="475.185 368.702 314.671 368.702 314.671 190.262" style="fill: none;stroke: #35bd9b;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px;stroke-dasharray: 0,27"/>
+      <rect x="703.339" y="643.633" width="249.431" height="67.463" style="fill: #333"/>
+      <rect x="188.225" y="124.44" width="255.481" height="128.367" style="fill: #333"/>
+      <rect x="206.541" y="144.749" width="215.647" height="24.609" rx="4.158" style="fill: #35bd9b"/>
+      <rect x="206.541" y="180.253" width="215.647" height="8.316" rx="4.158" style="fill: #35bd9b"/>
+      <rect x="206.541" y="199.464" width="123.11" height="8.316" rx="4.158" style="fill: #35bd9b"/>
+      <g>
+        <rect x="719.982" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="748.249" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="776.517" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="804.784" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="833.051" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="861.318" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #35bd9b"/>
+        <rect x="889.586" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #f5faff"/>
+        <rect x="917.853" y="659.658" width="18.275" height="35.413" rx="8.716" style="fill: #f5faff"/>
+      </g>
+    </g>
+    <g id="Flamme">
+      <path d="M216.477,723.512c-15.718,97.842,71.659,178.7,120.344,160.511,42.921-16.033,1.377-77.957,35.159-98.215C574.3,664.478,251.5,505.507,216.477,723.512Z" style="fill: #fe9920"/>
+      <path d="M285.079,642.29c-53.06,37.254-32.889,125.949.013,134.527,29,7.562,30.083-37.2,55.763-39.347C511.392,723.2,387.7,570.24,285.079,642.29Z" style="fill: #fff;opacity: 0.7000000000000001"/>
+      <path d="M219.5,784.51s49.1,69.278,88.089,58.585,16.147-68.608,60.7-78.746c36.092-8.212,69.691-60.457,69.691-60.457l-15.851,39.261-39.763,36.085-22.592,22.067-1.785,47.527-12.835,34.651-43.187-.265L248.584,848.76Z" style="fill: #f9581d"/>
+      <path d="M216.477,723.512c-15.718,97.842,71.659,178.7,120.344,160.511,42.921-16.033,1.377-77.957,35.159-98.215C574.3,664.478,251.5,505.507,216.477,723.512Z" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+    </g>
+    <g id="Fusee">
+      <circle cx="418.878" cy="459.007" r="11.21" style="fill: #333"/>
+      <circle cx="579.323" cy="607.9" r="11.21" style="fill: #333"/>
+      <path d="M422.187,516.132s-44.614-14.75-88.5,10.137-45.957,73.461-45.957,73.461,16.942-22.865,50.2-26.412,68.43,2.97,68.43,2.97Z" style="fill: #f9581d;stroke: #333;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px"/>
+      <path d="M473.331,636.815s3.23,15.42-1.92,43.663-24.96,58.549-24.96,58.549,48.816-9.587,70.811-50.7,14.911-68.819,14.911-68.819Z" style="fill: #f9581d;stroke: #333;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px"/>
+      <path d="M382.181,569.131S386.6,462.719,516.745,334.047s280.893-74.684,280.893-74.684,29.9,104.468-65.133,224.294S473.93,652.682,473.93,652.682s-39.338-6.248-64.255-32.266S382.181,569.131,382.181,569.131Z" style="fill: #f5faff"/>
+      <path d="M800.477,328.623S753.051,333.241,729.8,303.9c-22.469-28.354-13.088-55.764-13.088-55.764l80.923,11.222Z" style="fill: #f9581d"/>
+      <path d="M472.732,626.071a119.92,119.92,0,0,0-3.242-18.839c-2.52-9.542-12.984-22.626-12.984-22.626l-54.837-2.083a133.856,133.856,0,0,1-3.773-34.189c.316-19.383,8.2-61.144,8.2-61.144l-26.164,80.835,24.738,55.854,69.264,28.8,158.075-73.858,100.5-95.167,44.358-71.719,19.3-66.9,8.169-88.009-33.618,23.343,13.673,24.2s-42.6,118.375-113.557,187.663c-36.221,35.367-79.716,65.893-116.712,88.823-1.284.8-60.982-16.667-91.2-54.761-28.266-35.633-27.22-92.037-27.22-92.037s-12.193,9.688,7.623,70.019c22.625,68.88,91.81,87.6,89.941,88.7C497.118,614.233,472.732,626.071,472.732,626.071Z" style="fill: #1d1d1b;opacity: 0.2"/>
+      <path d="M800.477,328.623S753.051,333.241,729.8,303.9c-22.469-28.354-13.088-55.764-13.088-55.764" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <path d="M382.181,569.131S386.6,462.719,516.745,334.047s280.893-74.684,280.893-74.684,29.9,104.468-65.133,224.294S468.092,651.506,468.092,651.506s-33.5-5.072-58.417-31.09S382.181,569.131,382.181,569.131Z" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <path d="M778.7,267.478l55.143-51.422,9.875,10.59L789.6,277.112s-5.912.811-8.778-2.582A8.925,8.925,0,0,1,778.7,267.478Z" style="fill: #f5faff"/>
+      <path d="M811.33,227.156s.633,5.945,2.34,9.358a39.818,39.818,0,0,0,4.494,6.715l-36.421,35.945,6.193,1.872,34.486-26.7L839.6,238.5l-21.357-20.036Z" style="fill: #1d1d1b;opacity: 0.2"/>
+      <path d="M833.842,216.056l9.875,10.59L789.6,277.112a12.58,12.58,0,0,1-1.551.085c-1.953,0-5.288-.371-7.227-2.667a8.925,8.925,0,0,1-2.121-7.052l55.143-51.422m0-12a12,12,0,0,0-8.184,3.224L770.515,258.7a12,12,0,0,0-3.575,6.381,20.868,20.868,0,0,0,4.713,17.191c3.771,4.464,9.594,6.923,16.394,6.923a24.221,24.221,0,0,0,3.18-.2,11.991,11.991,0,0,0,6.555-3.113L851.9,235.422a12,12,0,0,0,.592-16.96l-9.874-10.59a12,12,0,0,0-8.358-3.809c-.14,0-.28-.007-.419-.007Z" style="fill: #333"/>
+      <circle cx="841.233" cy="217.562" r="24.156" style="fill: #f5faff"/>
+      <path d="M855.494,198.064a24.157,24.157,0,0,1-37.33,26.665,24.156,24.156,0,1,0,37.33-26.665Z" style="fill: #1d1d1b;opacity: 0.2"/>
+      <circle cx="841.233" cy="217.562" r="24.156" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <path d="M448.192,582.659c28.185,28.423-17,70.152-58.947,93.583A176.8,176.8,0,0,1,332.9,695.98s3.315-33.6,21.795-64.205C378.588,592.2,421.4,555.645,448.192,582.659Z" style="fill: #f9581d;stroke: #333;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12px"/>
+      <circle cx="574.072" cy="385.703" r="66.204" style="fill: #010f20;opacity: 0.2"/>
+      <circle cx="564.957" cy="357.455" r="66.204" style="fill: #f5faff"/>
+      <path d="M531.642,393.912s26.523,15.459,61.843-.167c36.331-16.074,34.282-57.225,34.282-57.225l3.41,33-20.3,37.432-45.923,17.789L527.43,413.781l-23.376-26.422-4.741-38.553L519.724,384.5Z" style="fill: #181818;opacity: 0.2"/>
+      <circle cx="564.957" cy="357.455" r="66.204" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <circle cx="556.946" cy="347.471" r="52.879" style="fill: #c4c4c4;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <path d="M443.028,422.745s-20.932,55.89,40.5,117.58S615.1,583.794,615.1,583.794" style="fill: none;stroke: #333;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <circle cx="564.569" cy="357.353" r="39.582" style="fill: #35bd9b"/>
+      <path d="M556.054,337.157c27.083-9.027,41.031,6.348,45.556,9.909-5.125-8.581-16.544-25.25-26.974-27.993a39.582,39.582,0,0,0-48.348,28.213c-2.409,9.162,2.633,25.345,6.268,33.346C532.29,376.169,528.972,346.185,556.054,337.157Z" style="fill: #1d1d1b;opacity: 0.2"/>
+      <circle cx="564.569" cy="357.353" r="39.582" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 12px"/>
+      <circle cx="427.505" cy="510.713" r="8.626" style="opacity: 0.2"/>
+      <circle cx="426.824" cy="504.107" r="8.626" style="fill: #333"/>
+      <g>
+        <circle cx="446.929" cy="552.997" r="8.626" style="opacity: 0.2"/>
+        <circle cx="446.247" cy="546.391" r="8.626" style="fill: #333"/>
+      </g>
+      <g>
+        <circle cx="486.532" cy="590.371" r="8.626" style="opacity: 0.2"/>
+        <circle cx="485.851" cy="583.766" r="8.626" style="fill: #333"/>
+      </g>
+      <circle cx="533.987" cy="602.456" r="8.626" style="fill: #333"/>
+    </g>
+  </g>
+</svg>
