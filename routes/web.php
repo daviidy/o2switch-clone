@@ -18,6 +18,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+/*ROUTE TEST*/
+Route::get('/each', function () {
+    return view('each_service');
+});
+/*END ROUTE TEST*/
+
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'admin'])
     ->middleware('is_admin')
     ->name('admin');
